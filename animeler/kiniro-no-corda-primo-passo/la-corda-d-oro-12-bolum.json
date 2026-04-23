@@ -1,0 +1,53 @@
+[
+  {
+    "player": "MAIL",
+    "path": "ajax/videosec&b=bzQwVjFkS2hMa2RKQWZEOTQrYzhFZz09Ojo2V0l0eUo0aF9PVDg5c3k2&v=YWtsMVpEZ3FQOFlUQ20zR1U4Wmk3Zz09OjpPX3lnSjhGUzk2NmxYM3ZS&f=Y3J3dlpvWHhGVXgrYzF1cDVvSXFrZz09OjppRGJtaHp3aHprM0liNnJn",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "MAIL",
+    "path": "ajax/videosec&b=dXd4Rkc1ckFPcU9GQ0pmSTFqaEFtQT09OjpyWDNxNGhac082NzFQWnVh&v=RVE3eDJjNDB2SWhOYWRZTTlVTlMrdz09OjppNEduUUw3NTVhajVyT1gx&f=UXJzMnlJQmx2MUI1NTl4NFlMZnN5QT09OjpXdzYzcTNHYVJzVnJHemhI",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "ODNOKLASSNIKI",
+    "path": "ajax/videosec&b=SyttajRGZjk1eDVPR0VDY3dwTFk0UT09OjpDeG4xUzY1SERpRTNuYksx&v=U1VqMjhzM3NDSk9VbVJWYVNNQ0dlQT09OjpvSUQ4QmJrUWpyaWlwQVhu&f=MWtQWlU5QVRCZkF1Y3hJYjR4R0cwQT09OjpTVW1ERGh0cHpkbWRWWks3",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "SIBNET",
+    "path": "ajax/videosec&b=RGNPTmd5SDA4Z2pNejF5dTlGT2xnQT09Ojp6bzVkODZ0dUY5NDZteTk2&v=K3g3UHMzWHRzdVVPZTFKVzVudHp6UT09OjpJYTM0MWo1Zk1WU3JnYXFk&f=VTFQYkN2VmJ5bXM0QlB5Qjd5VHhDZz09OjpWZ0ZXNU02MU1ZTFlVeHM1",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "VK",
+    "path": "ajax/videosec&b=ZG4vUzJnR0FhM0F1SUJNaTVwVjZLZz09Ojp2eGNVTl9ZcmtWRzhtbnp3&v=WVZjc3VhWDVrTm5SaEV3ZXZma2FBUT09Ojp1OXFNQTZJbHZVZ19TVTh4&f=eDBsWGZ2dE1RZDdZNmtFek9uVU8yQT09Ojp0cFI2dVpCZEtuZGFwYm9o",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "VUDEA",
+    "path": "ajax/videosec&b=S3VmVlVxcFpSdmtDNEFPYWlIVW9LUT09OjpEanRranhGZGhGbUQ4d3At&v=eXI0TzdibXZiRDl5NFN0azFDN0twZz09OjpoV1VhbHhvYXFIYVV6UmNs&f=U3V1NGEydEV2TTFTbXphWW8vQnRWdz09OjpEekFEWDl0WnAzS0NYQnY2",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "AMATERASU(BETA)",
+    "path": "ajax/videosec&b=RE9tSU1sdlMvSEtuWE1uRWtlQkZmQT09OjpNYnFTY0RESW9NSnlCbUFn&v=eTBpRVd3ejRKR25FNStjc0tmTXVmdz09OjpFUjQ4WHIwUlRkM0RxQzFv&f=MUtVR0R4dVo0M3o0UlgrWGxXL0I5dz09OjpxZHZKb01odTk1WThUNkNq",
+    "fansub": "Varsayılan",
+    "mask": "/player/M1BqR2ZMTzdFOEMrK1NMZU5jV2Nrcmlzbys4TVd4akRRRU5CSzk4Z01wND06OlJ3UlJzTkIxaXRDM0poVzE"
+  },
+  {
+    "player": "SIBNET",
+    "path": "ajax/videosec&b=N1l0SE9yYlRRM2hEcEt3b3h1ZGNUUT09Ojp5SnNFTDJPUDU0S09kTkxx&v=VktTWHRRTzQ2alNYSmc0SW1DTkM3QT09OjpUVjNMVm4tM29kU3d2UkhX&f=aDJVQmVNZzJXMytiVWxFeE9PWTNmZz09OjpwLWlfVG1FelhaVFhZTzBT",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "AMATERASU(BETA)",
+    "fansub": "AnimeOU",
+    "mask": "/player/eW9ibHdEUm1iTm01UFRCdTVZamRVdERMenpDS2FTbkFXWFJKWDdVTlI1cz06OkVJTWFUWUU2SUtJdmlYVWc"
+  },
+  {
+    "player": "ALUCARD(BETA)",
+    "fansub": "Varsayılan",
+    "mask": "/player/T3ZYaTkybWE4enhyNllwcUpBLzg5N3pjU09UV3BxdlJjWFMwaHRwRkN4Yz06OkNPSHNsdGNjZm1GZFhlamc"
+  }
+]

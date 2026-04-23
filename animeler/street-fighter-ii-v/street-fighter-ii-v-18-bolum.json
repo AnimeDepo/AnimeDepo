@@ -1,0 +1,37 @@
+[
+  {
+    "player": "MAIL",
+    "path": "ajax/videosec&b=SHQwUlJIQUZKQll3NWtrbHEyNzArZz09OjpIRjVsUHJyRUUzOS1GMzlM&v=bnBNM0wzRVhBWmlDalFTanpqLzRodz09Ojo1Z213dVc2T254YUJMVy04&f=QmNXT1k5d3Y5MEp6d0xoOGFlb1dodz09OjpXZUw3elk5TlFaWGFGbnFq",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "ODNOKLASSNIKI",
+    "path": "ajax/videosec&b=TFRhd0JDaFpVei9LWkdyWFB2UGUwdz09OjpBRjd5TGFSdGdFSUlZVUYt&v=bkFEb0tiSVBaQ3VuenBtL2Jra09DQT09OjpPM0tlUWRrWC02aHVRcFdm&f=RVdhZzRvdGVqdkE2d2hNd1JESGV5Zz09OjpZZmJDSzYzTmJIa2hDLVFY",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "VK",
+    "path": "ajax/videosec&b=VlcrRitHRm9XaG4vRHJ0UmFaa3NuQT09OjpHV3h1TndCbjBkdHNEZzQ1&v=TUI4RDRxZGRoZ3p0ZkxGL2JiMXg4Zz09OjpSVldCWFJXUFk2VlRvQUxq&f=WTdpOS85K3FuVEV2YlpPN3M3QlUzZz09OjpoSndtSEotWEppTFRZaHhq",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "DAILYMOTION",
+    "path": "ajax/videosec&b=ZVlpWkFRVG1USG1BZFZ5V3BCeldMdz09Ojp0MEllM0hFc21HMmVuWXEz&v=dlFtSnhPTmlKMFlWNFlzOWZPSVVqZz09OjpKc3hXU2N4Ni1pU3VNbElV&f=VTFyTzZkRXg4dWNpUmhxelJNSkY3Zz09OjpUd2MtVEs1NThqRE1Qb2Yx",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "SENDVID",
+    "path": "ajax/videosec&b=bVQ4ZlVsUHNHUkx0VDJ6RWt6ejM4UT09OjpTS0hUcmNwRDJvTUZKNEtE&v=UU56NTZkS2NHUDRxdEJ3UUJWUXR0UT09OjpMRFpGRVEzVUhaVWptaVRI&f=dkdTOVRycFh0M2RJV0VWY3lScUFBUT09OjpMSGgtd2dFZzh0LTVpT0ds",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "STREAMSB",
+    "path": "ajax/videosec&b=UE9hcFpoZVJOYkU2ZEhZMEdxYzNEdz09Ojp1aWhzaDJBNmJXbmdidHNo&v=OUJZODFmSEhXNkluMVp3Rnc0YkV3dz09OjpUMUxnanVXcUdpQlZWQ0d2&f=REFtVkNQcTNGSm5zdzZzbThZK1o1Zz09OjpjeXBVenZNTVVKejk5bXRE",
+    "fansub": "AnimeOU"
+  },
+  {
+    "player": "ALUCARD(BETA)",
+    "fansub": "AnimeOU",
+    "mask": "/player/elVOK1IyQ0hkMWFFMWd1bmdPT2EyMUJUdDIzbGhHaFN5VFNodUY0cXZtOD06OnVYZzFwd1NKNXNEVXBZa0k"
+  }
+]

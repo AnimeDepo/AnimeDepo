@@ -1,0 +1,48 @@
+[
+  {
+    "player": "AMATERASU(BETA)",
+    "path": "ajax/videosec&b=Y09LUXBXSGp6U09oNVNRbUtESUtFdz09OjpELWZRWjFiY3REYW9JSFE5&v=RDlUSFVCQTdRN0pnZ1lEY2dpMUtsUT09Ojo4MWRUb1FSUTZqZklreGlx&f=dXRnc29tUjdzenVnc25naW1GODV2QT09OjpSdHpfWHpYQnlXMkctOGpK",
+    "fansub": "SoutenSubs",
+    "mask": "/player/RVdOWS9kcFYyYi9mbXM3OENpSldsMkJSV2p4bUx2UnM2bWU5TmExcDdmZz06OmxUUFhYUVFIY3NMalBTeGM"
+  },
+  {
+    "player": "MAIL",
+    "path": "ajax/videosec&b=bXRiVTZMY29DUExEOVM4enh1QXpCdz09OjpoRkNzZWhvVGJ4d0lVc0JC&v=cThnSXk5UjhDTHlCenVmVENpRTdLdz09Ojo2YUJ4aDJ4djRGZE9EQ0s3&f=QWJMM2ZBZjBHdUJkTTUrcEdjNUhMQT09OjozZDdmMkM2RmtlTV83NUdy",
+    "fansub": "SoutenSubs"
+  },
+  {
+    "player": "ODNOKLASSNIKI",
+    "path": "ajax/videosec&b=eDhISHdvM2VYZHlBZFh3N1VZeTY2Zz09OjoxcmFSV0RlVnlTSmJMU0R3&v=OHB3b0FsTXE3N1RpblQzbFBLZ1h1Zz09OjpYQlVwNXFONDJ6OE4xdEpo&f=T0JiWjRITFVMUUZTY0FPbk9DMlFUUT09OjpZZUxSa0wxVFR2UU5XdHN2",
+    "fansub": "SoutenSubs"
+  },
+  {
+    "player": "SIBNET",
+    "path": "ajax/videosec&b=ekhqTVEwSUcza3lUa0tNWC9sd3JIZz09OjpKZ1JjcVZTVGNEZ3BxWGx2&v=dEJWNm04K1BHWm9YRmp6d1VEK3ZTUT09OjpPRmUyUlJueTdrcGYxQ21a&f=QXdZbUE4NFRFbThPVkFrRXZWUE16Zz09OjowLVRuYlNpOHY5eUYxTEtj",
+    "fansub": "SoutenSubs"
+  },
+  {
+    "player": "MP4UPLOAD",
+    "path": "ajax/videosec&b=dm5ZZ1BWU3h5OTFlZkZlb2F2TWFTZz09OjoxU1ROUDFjVmZkcGVNWjZn&v=ZGUwdlRBY29oS2NiZGJPTzBEVnVLUT09OjpEVVVnc3hKTkxxUERhbVpO&f=TTI5RWh0dmU5WVBUNjhiTlhESHNvUT09OjpOMU5xalkwSzU0NHBsdjJ5",
+    "fansub": "SoutenSubs"
+  },
+  {
+    "player": "SENDVID",
+    "path": "ajax/videosec&b=SS9oVHBGZ1VrbWJkUE5iWjhLUUpsZz09OjpoM2hLaXdJNGpCOWMwY29O&v=UnVqWWc3OUxxSGQzRGpabDZHYWRsQT09OjpsYTljU2Y5NjQxNWhVaHlq&f=QW0vY2hLL0owL2h6SHBXb3JOc1pqUT09OjpDLXpUc0FXX3hMMFg0Q01I",
+    "fansub": "SoutenSubs"
+  },
+  {
+    "player": "VK",
+    "path": "ajax/videosec&b=NE4rakRobUVmT0RraWtMOGZ0UzRqZz09OjpvcTlBcTZCMzdfeVFUZnRX&v=WExZUFE4dkxYaUFGM2J3Rm9hK1FBUT09OjoxX3BzUHp6NmtldkVxYUJJ&f=czdtUzlRWVpEMkJ4RTFEa3JIV21pQT09Ojp1WktKS0ZnT0MteVU1S3Ax",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "ALUCARD(BETA)",
+    "fansub": "SoutenSubs",
+    "mask": "/player/ckZMQXIyZGZVZldwNDdpSUJPV2hkRXRaekFSY21wcTVMZ3p3NXZkc1Bhbz06OmRGMmtGYmlfRC1ZdG95Sno"
+  },
+  {
+    "player": "ALUCARD(BETA)",
+    "fansub": "Varsayılan",
+    "mask": "/player/VzJCRmlKOVpndDQxazQzRWN1ekdBWlNpQXZjanRhY0wxNW9pNjJOKzZmVT06OjhKSWp4YW1WcHo1ZXI0eS0"
+  }
+]

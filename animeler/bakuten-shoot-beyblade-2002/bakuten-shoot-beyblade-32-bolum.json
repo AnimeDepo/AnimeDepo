@@ -1,0 +1,69 @@
+[
+  {
+    "player": "AMATERASU(BETA)",
+    "path": "ajax/videosec&b=UHRvbmY4QnVGbG1BbDJudDFVZ3E3Zz09OjpDRlBWdHQzTWx5cHJEMTV0&v=dVBFMjR3QkgvRVBRdDlUbS93TnN0QT09OjplNmo3eDl2LWJIQW1rMzFJ&f=dGVSRzBISVFCNU85d0todzJCNmVsUT09OjptOWhsZUJkazhaZHZ2bjB5",
+    "fansub": "Varsayılan",
+    "mask": "/player/ejZoNVV3V1pMcm1jbHlPWmJ1Mk9oUjJFaUxrNjVROCt0ekFNKzIzQ2wwcz06OnVjbU1fX1BOeHF1ajFkTG4"
+  },
+  {
+    "player": "BANKAI(BETA)",
+    "path": "ajax/videosec&b=TmJ0Y0RvVUtzeDhJVUdNV014dFRMUT09OjpwbXUxMnhnNG5FVnJCMkFR&v=YUhKK2J1ckdQV1ljZWVzL2o4Uzh0QT09Ojp1N0RfS1h5S2pjVUVSQ0ts&f=eDlESnI1SThWSUVMWjJ6KzVVWVlWUT09OjpobTNXaGVzWi1LMnhKUFQw",
+    "fansub": "Varsayılan",
+    "mask": "/player/Qlg5ZUJycTFudHJ6MEdKMytVVzN2dWdScGtoRUJRZW8vSGNuaEFibXJNc1dSOGp2Nkp2MTBjNXg2WXBpOGY4NTo6RmJwREZMMkJydFI3bjkwVA"
+  },
+  {
+    "player": "GDRIVE",
+    "path": "ajax/videosec&b=YzZGNW1iT3Z2bTVmcVBVeEMzZHI3UT09OjpjdkpvVFQ4RWFPTE9UTGdx&v=cnJMTExBa0M1YmdrcEZXREF3RjlVZz09Ojp1YUFVQmtCcjhjWjVzbkUy&f=bElQZVhGQmQxcVZvb1k1anc4VmhmUT09Ojp3ZnVFMk12ejNaWDFnWW92",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "ODNOKLASSNIKI",
+    "path": "ajax/videosec&b=MVlMZHJxbStkNCtMMW5zcEZheXU4UT09OjpvdnZDUDN0X0lBV2ZtcmFh&v=c1VEeTJ5WjdTRktQWHJ2TFFhV25wdz09Ojo4dlpOWnJyLXVRQUxMTlB1&f=MXM1WDh4czQ1Slo2LzRjbkFhajlTdz09Ojo5RWFnX2xXSWR3TmdZSnlU",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "SIBNET",
+    "path": "ajax/videosec&b=TzVTTEZGL0dpa1ZhYU5XRWJBcmV6QT09Ojo0dmVaa0xRRkxDT3FnSFY5&v=MFZYaEJTMjhnMHMxNVlmUzVaQ21Jdz09Ojp1TGNldW9LTXBXUWlmaTJW&f=QnNRTHdMT3FmM00wZ0tyb0lsUng3UT09Ojo2Q3RPY0Z6V0JMUkd0dU9z",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "CLONE",
+    "path": "ajax/videosec&b=NDdYWlpzODNXRHMvV3RIRi9ZUW5iQT09OjpQSEdMTE5xQkoxOHR3b0Jy&v=UDZibnpzQktISHFDWEFYUEdCMm1jUT09OjoxUnJQbVN1LWVhVG44TnRw&f=dVR3Y3BxT1RMcm9KUThUMnVoTitFUT09Ojo0Wi1kQUh3cHB6TTlFNnRB",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "DAILYMOTION",
+    "path": "ajax/videosec&b=cVZhcHNZZFlvbGlQazdJWlNJUXRHQT09OjpxVHBzazlqaGtaZ2Z6MWFI&v=VjFJakdGTHE0WlZQWjVaL2JKSkd4dz09Ojp4MGtnVkNsbGdJSmwyT3VR&f=SlExOElwYlBsdnZseE52czRXSStZZz09OjpKWHduS05XYU4yNVRNb1Fj",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "MP4UPLOAD",
+    "path": "ajax/videosec&b=M0s5SHVsUU0zN2dObmQxN25sT1p6UT09OjpCQ1dHWW01c3licGhlWHVW&v=M0NPTlo1aHV6bll1OXRPL2VueldHZz09OjpWN2lzY1EzZ2QxMV8xZDhw&f=Q2oyeEJYN0FqWERIKzlVK3RSNU9odz09Ojo0RXc4eHRwYUw3Mjk4RmJN",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "SENDVID",
+    "path": "ajax/videosec&b=TXdVQXpSQkJYdDF4OGZBTU5OcVpRQT09OjpQdkhoVEhqMU0xR1h0YjBm&v=c3FuK0ZJaThZVmJlQTlYL05PWG5IUT09Ojo4dy15SUxuVk9KYjBINmNX&f=dTZ1MTArdzFGOEYxN1pSdG4rcG41UT09Ojp0bmRuYjVFaXdtdkV0T080",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "UQLOAD",
+    "path": "ajax/videosec&b=bUoyenI1NVQwOXFEalp2b0xhWDQ2UT09OjpiOF9GRWZ2Q1g4VVlINllP&v=QnlWa2krbTE5OEN5ZVpwUlZVN0VsQT09OjoxZ0FpTTU1eGdXb3U1ZEpr&f=dDBNMWZiZy8yZzN4QlJvcmszR29nZz09OjpCSGhQU25tTHRrV3hacUVa",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "VUDEA",
+    "path": "ajax/videosec&b=V2t1T3c4MlZaQXBsSUZsU2pYMEttQT09Ojp1WWlENERLdTBnNDd3RUVG&v=OExMWFFaemg0YnVwVkdHSDBvM0Ftdz09Ojp4RTJNS2kxdjJHdktmd1ds&f=QmtBN2xvU09oMnV1RHV1ZEpVelBCUT09OjpMa0hxWnh3eTJlbGg1MXNj",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "YOUTUBE",
+    "path": "ajax/videosec&b=M1lZaDFmODZ2clYvQzVmb2xXUTlEdz09OjpTcVhHQ1RFTWRLNVplWWly&v=REZ6MXcvUzIyU1FWZmRzYkdYR3BwUT09OjpKcnpnVTVUbGZwdl9Bb25K&f=SUVnajk2WGhaUWQxL2FWemVKcXZwZz09OjpPYkpUNk1Jd0kxbVkwS0Z1",
+    "fansub": "Varsayılan"
+  },
+  {
+    "player": "ALUCARD(BETA)",
+    "fansub": "Varsayılan",
+    "mask": "/player/MXdNSTk3Nnc1RWoyNFVkZzZWK2NxY3o3aWpFZFNRMTlqVStkY0p2UmdnTT06OjhHOXJRbzJHQjdvV0ZQOWw"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "player": "AMATERASU(BETA)",
+    "path": "ajax/videosec&b=NXhZTGpnZzZTOGt4SFdrU1ZxMjR0Zz09OjpWYmhZbHpJdHdrR280YWxH&v=VnY0b0Z4NmlzcFdvck5tZ1dLNGF0QT09OjpIZUl1N1VFUm1xUllqUHFv&f=S1JOUUdZanFyaWNMRFhURDNJbUM3QT09OjpKcjYyYzRUTzNiejlEcTZ4",
+    "fansub": "TAÇE",
+    "mask": "/player/RXZ5Y0Q3T05TQ2RPb2hoSmZjL2pFK0czeTd3YjZEQXA0c015YmNSTklQTT06OktyUFRUcTdaSVpneVk2M0U"
+  },
+  {
+    "player": "BANKAI(BETA)",
+    "path": "ajax/videosec&b=eFlsVUFUUTVhWlkzcFkrTGdJRUxnUT09Ojp4MDhIVEkzcVdKMi1nYlIy&v=d3c4TWhRbzdFYzZOTHdvMVRVOEcxdz09OjpuMUJhZF9pUTZzdF9VY0J0&f=dkFmRUlBUzJOVVNjSTcxMTdpTkpZZz09Ojo4WW4yaWp6dzg3b1R2eEVN",
+    "fansub": "TAÇE",
+    "mask": "/player/VEMvSkpvUEppTXIrQTA0bGdWK0dMSUpDaUxMQnJXTnVGT1dXQmc4TjBTTG9vaDQxSHlZUVRYQmtKVWRzbEJqZzo6VkluY2xCZFVzeEJ6WHQ2Mg"
+  },
+  {
+    "player": "GDRIVE",
+    "path": "ajax/videosec&b=a0NDV2pxczNNcFBCMlMvdWxmS2xGdz09OjpSYlZqeU1jTTh3anFjTnNh&v=Qk9KVTJZYmI2a3N4TW1FRHNLcHJpZz09Ojo2WG0yM21DaVltYzFJTlNU&f=ekVyeUcwcXpGRC9adVFhM0pjSERuQT09OjphVU9KWHg1WXhkbWthYUVt",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "MAIL",
+    "path": "ajax/videosec&b=dUFzdGswZktQbFVCU3VxbWI0Y1hPQT09Ojp4MDRja0FWQ0RRVnBfNzJX&v=cDlyZnQ5SHZMcGh1VnljczQ5Q0NpZz09OjotN3plekRaemRNTDRRNldE&f=My9ROVU3SVlnUkZGZVpzc3NZaCtWQT09OjpkQkNQdWhFTmRoWXVQaGNu",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "ODNOKLASSNIKI",
+    "path": "ajax/videosec&b=ZmQrYkVLZHduZDhDcVBYcWMyVXFFQT09OjphcV9PUTV3bS1WZE1KUjFU&v=a1BxTVJ6Tms0Z2FuREJaVWs0blhzUT09OjprdHpmZVp5SHV5OVJ2eGVZ&f=TmhLZk13OXUvcE9NNHF4RDJEZmxwUT09Ojp3X0tLN3RIUHIwdjhYemQz",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "ODNOKLASSNIKI",
+    "path": "ajax/videosec&b=SjQzMFR1d0EyeXd5NUNBK0hYRG14Zz09Ojo1ejFhODZQVk40RGZoYjBJ&v=am12U0E1MGMwbUNZVHJJVldVN0p6dz09OjpkRkR4VDYwZW9Dc3JXaE5q&f=ZlRjdkJVMTdQZUxLSkxXSjkzakRTZz09OjpqemhGLVh3TnlKbVRjcml4",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "SIBNET",
+    "path": "ajax/videosec&b=aEk1Tm5Xa29TVjBpZjNiK3Nha0pJdz09OjpDc3lMWVFYSDhvLXZiQi1h&v=ZUR0UHI2Q1ZRZzQxbzNib3NCTmgyZz09OjpQeGtOOUhzd2dVS1BGZ0Vo&f=RkdaOUV4MktCOUVBR1JRakZMeE9rQT09OjpYMXIyVGVhdG5xMkRSZ0pL",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "VK",
+    "path": "ajax/videosec&b=T3UvQmw2QmNGemFHcXI2eStvVnRxUT09OjpnbDhHWklRZGxOeXJnTkxZ&v=R2hhWVFMS2wxczVjdmdHdmk5a2Q1UT09Ojo0Sm1yV2QxMTdadmhyaEJz&f=YTRTY1B3ZUcwcXY2eHJlSGg4bzBLdz09OjpxQWZodVc1eXpmVTZud2tN",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "CLONE",
+    "path": "ajax/videosec&b=bWYrWUwzNExSMVZHM3NVaktJdGVKdz09OjpmbldXN3BIdUhUb0VTV0dk&v=eWxCelRiZk5OVXBFZnFKMC9vbmZYdz09OjpiQWhzS0tUYWwwT1Azb2VO&f=V2lDUEdtSEh5MDF4THk0UTRtUy9rZz09OjpjRklEVkRvWHdPeUMwUGpu",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "MP4UPLOAD",
+    "path": "ajax/videosec&b=cTB6OFk2Tmt6YkttSCtQaENsc2hzQT09OjpPVUdCa0cxekFYa1ZKYkZZ&v=azBOWHZXZWxHazJxd3lIc2FQUEdVQT09OjphUlg2bkdfVGd3UmtRelZl&f=Tk5MQUJrQjJqMFBkaGhFUFE4cGsrUT09OjpzcG9CQnhucmRzWVgwSjVJ",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "MP4UPLOAD",
+    "path": "ajax/videosec&b=RUdPbkdWajJEL3AwTlZJdytmT2hmZz09Ojp3UXRvRTJqclVEUmVTTmN4&v=cnhDb29VRGc4L05KYVlsZjVZeHVoQT09OjotRlI3bXVpWHpMMUhVNHpI&f=UFNpVmFwcUNVUVpVbnd1RUZoQXA2Zz09OjpRSzVIdGxTck5YaHZvZjd2",
+    "fansub": "TAÇE"
+  },
+  {
+    "player": "ALUCARD(BETA)",
+    "fansub": "TAÇE",
+    "mask": "/player/bVpUaTBudVNPRndKYW5KZCtsdDJWTWNhaUJveUp0OVhhZE9PMW04WkR0MD06OlhRckhQcFBxdzRPYjFicEY"
+  }
+]
