@@ -1,5 +1,5 @@
 {
-    "last_update": 1777782847,
+    "last_update": 1780366722,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -546,8 +546,8 @@
             },
             "aishiteru-game-wo-owarasetai": {
                 "title": "Aishiteru Game wo Owarasetai",
-                "status": "3/12",
-                "last_change": 1777782820
+                "status": "4/12",
+                "last_change": 1780366689
             },
             "aishiteruze-baby": {
                 "title": "Aishiteruze Baby★★",
@@ -616,8 +616,8 @@
             },
             "akane-banashi": {
                 "title": "Akane-banashi",
-                "status": "4/?",
-                "last_change": 1777288933
+                "status": "9/12",
+                "last_change": 1780366689
             },
             "akaneiro-ni-somaru-saka": {
                 "title": "Akaneiro ni Somaru Saka",
@@ -666,8 +666,8 @@
             },
             "akiba-meido-sensou": {
                 "title": "Akiba Meido Sensou",
-                "status": "3/12",
-                "last_change": 1754859600
+                "status": "12/12",
+                "last_change": 1780366689
             },
             "akiba-s-trip-the-animation": {
                 "title": "Akiba's Trip The Animation",
@@ -1641,8 +1641,8 @@
             },
             "akuyaku-reijou-nano-de-last-boss-wo-kattemimashita": {
                 "title": "Akuyaku Reijou nano de Last Boss wo Kattemimashita",
-                "status": "1/12",
-                "last_change": 1776744598
+                "status": "12/12",
+                "last_change": 1780366689
             },
             "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru": {
                 "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru",
@@ -1958,6 +1958,16 @@
                 "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
                 "status": "8/8",
                 "last_change": 1777782820
+            },
+            "android-wa-keiken-ninzuu-ni-hairimasu-ka-special": {
+                "title": "Android wa Keiken Ninzuu ni Hairimasu ka?? Special",
+                "status": "1/1",
+                "last_change": 1780366690
+            },
+            "awajima-hyakkei": {
+                "title": "Awajima Hyakkei",
+                "status": "8/12",
+                "last_change": 1780366690
             }
         },
         "B": {
@@ -4745,8 +4755,8 @@
             },
             "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta": {
                 "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-                "status": "4/12",
-                "last_change": 1777782823
+                "status": "5/12",
+                "last_change": 1780366693
             },
             "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta": {
                 "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
@@ -5422,8 +5432,8 @@
             },
             "digimon-beatbreak": {
                 "title": "Digimon Beatbreak",
-                "status": "28/?",
-                "last_change": 1777396766
+                "status": "32/?",
+                "last_change": 1780366694
             },
             "digimon-frontier": {
                 "title": "Digimon Frontier",
@@ -6437,8 +6447,8 @@
             },
             "dr-stone-science-future-part-3": {
                 "title": "Dr. Stone: Science Future Part 3",
-                "status": "5/13",
-                "last_change": 1777782825
+                "status": "7/13",
+                "last_change": 1780366695
             },
             "dragon-age-blood-mage-no-seisen": {
                 "title": "Dragon Age: Blood Mage no Seisen",
@@ -6704,6 +6714,21 @@
                 "title": "Durarara!!x2 Ten: Onoroke Chakapoko",
                 "status": "1/1",
                 "last_change": 1776744623
+            },
+            "devil-may-cry-2025-season-2": {
+                "title": "Devil May Cry 2025 Season 2",
+                "status": "8/8",
+                "last_change": 1780366694
+            },
+            "diamond-no-ace-act-ii-second-season": {
+                "title": "Diamond no Ace: Act II Second Season",
+                "status": "9/?",
+                "last_change": 1780366694
+            },
+            "dorohedoro-season-2": {
+                "title": "Dorohedoro Season 2",
+                "status": "11/11",
+                "last_change": 1780366695
             }
         },
         "E": {
@@ -9325,6 +9350,11 @@
                 "title": "Gyakuten Saiban: Sono &quot;Shinjitsu&quot;, Igi Ari! Season 2",
                 "status": "23/23",
                 "last_change": 1776744635
+            },
+            "ganbare-nakamura-kun": {
+                "title": "Ganbare! Nakamura-kun!!",
+                "status": "10/13",
+                "last_change": 1780366697
             }
         },
         "H": {
@@ -10270,8 +10300,8 @@
             },
             "himekishi-wa-barbaroi-no-yome": {
                 "title": "Himekishi wa Barbaroi no Yome",
-                "status": "4/12",
-                "last_change": 1777782829
+                "status": "5/12",
+                "last_change": 1780366700
             },
             "himesama": {
                 "title": "Himesama",
@@ -11045,8 +11075,8 @@
             },
             "hokuto-no-ken-fist-of-the-north-star": {
                 "title": "Hokuto no Ken: Fist of the North Star",
-                "status": "6/?",
-                "last_change": 1777782829
+                "status": "10/?",
+                "last_change": 1780366700
             },
             "hokuto-no-ken-kenougun-zako-tachi-no-banka": {
                 "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
@@ -11080,8 +11110,8 @@
             },
             "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo": {
                 "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
-                "status": "4/?",
-                "last_change": 1777288941
+                "status": "5/?",
+                "last_change": 1780366700
             },
             "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2nd-season": {
                 "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
@@ -11172,6 +11202,21 @@
                 "title": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
                 "status": "3/?",
                 "last_change": 1776898612
+            },
+            "haibara-kun-no-tsuyokute-seishun-new-game": {
+                "title": "Haibara-kun no Tsuyokute Seishun New Game",
+                "status": "9/12",
+                "last_change": 1780366698
+            },
+            "hidarikiki-no-eren": {
+                "title": "Hidarikiki no Eren",
+                "status": "0/13",
+                "last_change": 1780366699
+            },
+            "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2": {
+                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+                "status": "8/12",
+                "last_change": 1780366699
             }
         },
         "I": {
@@ -11572,8 +11617,8 @@
             },
             "isekai-nonbiri-nouka-2": {
                 "title": "Isekai Nonbiri Nouka 2",
-                "status": "1/12",
-                "last_change": 1776666267
+                "status": "4/12",
+                "last_change": 1780366701
             },
             "isekai-ojisan": {
                 "title": "Isekai Ojisan",
@@ -11964,6 +12009,11 @@
                 "title": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
                 "status": "1/?",
                 "last_change": 1777782830
+            },
+            "ichijouma-mankitsugurashi": {
+                "title": "Ichijouma Mankitsugurashi!",
+                "status": "0/11",
+                "last_change": 1780366700
             }
         },
         "J": {
@@ -12431,6 +12481,16 @@
                 "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
                 "status": "1/1",
                 "last_change": 1776744649
+            },
+            "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season": {
+                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+                "status": "7/12",
+                "last_change": 1780366701
+            },
+            "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku": {
+                "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+                "status": "9/12",
+                "last_change": 1780366702
             }
         },
         "K": {
@@ -13831,8 +13891,8 @@
             },
             "koori-no-jouheki": {
                 "title": "Koori no Jouheki",
-                "status": "4/?",
-                "last_change": 1777288945
+                "status": "6/?",
+                "last_change": 1780366704
             },
             "kore-wa-zombie-desu-ka": {
                 "title": "Kore wa Zombie Desu ka?",
@@ -14481,8 +14541,8 @@
             },
             "kanojo-okarishimasu-5th-season": {
                 "title": "Kanojo, Okarishimasu 5th Season",
-                "status": "4/12",
-                "last_change": 1777782831
+                "status": "5/12",
+                "last_change": 1780366703
             },
             "kanokon-manatsu-no-dai-shanikusai": {
                 "title": "Kanokon: Manatsu no Dai Shanikusai",
@@ -15183,6 +15243,31 @@
                 "title": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara",
                 "status": "12/12",
                 "last_change": 1776744661
+            },
+            "kami-no-niwatsuki-kusunoki-tei": {
+                "title": "Kami no Niwatsuki Kusunoki-tei",
+                "status": "9/12",
+                "last_change": 1780366702
+            },
+            "kamiina-botan-yoeru-sugata-wa-yuri-no-hana": {
+                "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+                "status": "8/12",
+                "last_change": 1780366703
+            },
+            "kill-ao": {
+                "title": "Kill Ao",
+                "status": "8/12",
+                "last_change": 1780366703
+            },
+            "kirio-fanclub": {
+                "title": "Kirio Fanclub",
+                "status": "0/12",
+                "last_change": 1780366704
+            },
+            "kuroneko-to-majo-no-kyoushitsu": {
+                "title": "Kuroneko to Majo no Kyoushitsu",
+                "status": "7/?",
+                "last_change": 1780366705
             }
         },
         "L": {
@@ -15293,8 +15378,8 @@
             },
             "liar-game": {
                 "title": "Liar Game",
-                "status": "4/?",
-                "last_change": 1777396775
+                "status": "6/?",
+                "last_change": 1780366705
             },
             "liar-liar": {
                 "title": "Liar Liar",
@@ -16290,8 +16375,8 @@
             },
             "mao": {
                 "title": "Mao",
-                "status": "5/?",
-                "last_change": 1777782834
+                "status": "6/?",
+                "last_change": 1780366707
             },
             "maou-2099": {
                 "title": "Maou 2099",
@@ -16375,8 +16460,8 @@
             },
             "marriagetoxin": {
                 "title": "Marriagetoxin",
-                "status": "4/?",
-                "last_change": 1777782834
+                "status": "6/13",
+                "last_change": 1780366707
             },
             "mars-red": {
                 "title": "Mars Red",
@@ -16620,8 +16705,8 @@
             },
             "meitantei-precure": {
                 "title": "Meitantei Precure!",
-                "status": "13/?",
-                "last_change": 1777396777
+                "status": "18/?",
+                "last_change": 1780366707
             },
             "meitou": {
                 "title": "Meitou",
@@ -18062,6 +18147,36 @@
                 "title": "Miyakawa-ke no Kuufuku",
                 "status": "10/10",
                 "last_change": 1776974548
+            },
+            "maid-san-wa-taberu-dake": {
+                "title": "Maid-san wa Taberu dake",
+                "status": "0/12",
+                "last_change": 1780366706
+            },
+            "mairimashita-iruma-kun-4th-season": {
+                "title": "Mairimashita! Iruma-kun 4th Season",
+                "status": "5/24",
+                "last_change": 1780366706
+            },
+            "mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru": {
+                "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
+                "status": "9/?",
+                "last_change": 1780366707
+            },
+            "marika-chan-no-koukando-wa-bukkowareteiru": {
+                "title": "Marika-chan no Koukando wa Bukkowareteiru",
+                "status": "6/8",
+                "last_change": 1780366707
+            },
+            "mata-korosarete-shimatta-no-desu-ne-tantei-sama": {
+                "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+                "status": "9/?",
+                "last_change": 1780366707
+            },
+            "megami": {
+                "title": "Megami",
+                "status": "8/12",
+                "last_change": 1780366707
             }
         },
         "N": {
@@ -18572,8 +18687,8 @@
             },
             "niwatori-fighter": {
                 "title": "Niwatori Fighter",
-                "status": "7/?",
-                "last_change": 1777288949
+                "status": "12/12",
+                "last_change": 1780366709
             },
             "no-game-no-life": {
                 "title": "No Game No Life",
@@ -19187,8 +19302,18 @@
             },
             "nippon-sangoku": {
                 "title": "Nippon Sangoku",
-                "status": "4/?",
-                "last_change": 1777396778
+                "status": "4/12",
+                "last_change": 1780366709
+            },
+            "needy-girl-overdose": {
+                "title": "Needy Girl Overdose",
+                "status": "2/13",
+                "last_change": 1780366709
+            },
+            "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken": {
+                "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+                "status": "8/12",
+                "last_change": 1780366709
             }
         },
         "O": {
@@ -19349,8 +19474,8 @@
             },
             "one-piece": {
                 "title": "One Piece",
-                "status": "1153/108+",
-                "last_change": 1777782837
+                "status": "1157/108+",
+                "last_change": 1780366710
             },
             "one-piece-3d-mugiwara-chase": {
                 "title": "One Piece 3D: Mugiwara Chase",
@@ -20399,8 +20524,8 @@
             },
             "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2": {
                 "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
-                "status": "5/12",
-                "last_change": 1777782838
+                "status": "6/12",
+                "last_change": 1780366711
             },
             "ougon-no-hou-el-cantare-no-rekishikan": {
                 "title": "Ougon no Hou: El Cantare no Rekishikan",
@@ -20446,6 +20571,11 @@
                 "title": "Owari no Seraph: Owaranai Seraph",
                 "status": "9/9",
                 "last_change": 1776744688
+            },
+            "otaku-ni-yasashii-gal-wa-inai": {
+                "title": "Otaku ni Yasashii Gal wa Inai!?",
+                "status": "5/12",
+                "last_change": 1780366711
             }
         },
         "P": {
@@ -21298,6 +21428,11 @@
                 "title": "Puniru wa Kawaii Slime 2nd Season",
                 "status": "12/12",
                 "last_change": 1776744692
+            },
+            "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi": {
+                "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+                "status": "8/12",
+                "last_change": 1780366712
             }
         },
         "Q": {
@@ -22010,8 +22145,8 @@
             },
             "re-zero-kara-hajimeru-isekai-seikatsu-4th-season": {
                 "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-                "status": "4/19",
-                "last_change": 1777782839
+                "status": "8/19",
+                "last_change": 1780366713
             },
             "re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban": {
                 "title": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban",
@@ -22122,6 +22257,16 @@
                 "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
                 "status": "12/12",
                 "last_change": 1776744696
+            },
+            "reincarnation-no-kaben": {
+                "title": "Reincarnation no Kaben",
+                "status": "9/?",
+                "last_change": 1780366713
+            },
+            "replica-datte-koi-wo-suru": {
+                "title": "Replica datte, Koi wo Suru.",
+                "status": "8/13",
+                "last_change": 1780366713
             }
         },
         "S": {
@@ -24367,8 +24512,8 @@
             },
             "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2": {
                 "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
-                "status": "5/?",
-                "last_change": 1777782840
+                "status": "6/12",
+                "last_change": 1780366713
             },
             "saikyou-onmyouji-no-isekai-tenseiki": {
                 "title": "Saikyou Onmyouji no Isekai Tenseiki",
@@ -25289,6 +25434,21 @@
                 "title": "Sword Gai: The Animation Part II",
                 "status": "12/12",
                 "last_change": 1776744711
+            },
+            "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo": {
+                "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+                "status": "10/12",
+                "last_change": 1780366713
+            },
+            "shunkashuutou-daikousha-haru-no-mai": {
+                "title": "Shunkashuutou Daikousha: Haru no Mai",
+                "status": "10/14",
+                "last_change": 1780366715
+            },
+            "snowball-earth": {
+                "title": "Snowball Earth",
+                "status": "9/13",
+                "last_change": 1780366716
             }
         },
         "T": {
@@ -26289,8 +26449,8 @@
             },
             "tongari-boushi-no-atelier": {
                 "title": "Tongari Boushi no Atelier",
-                "status": "5/13",
-                "last_change": 1777396786
+                "status": "9/13",
+                "last_change": 1780366718
             },
             "tonikaku-kawaii": {
                 "title": "Tonikaku Kawaii",
@@ -26934,8 +27094,8 @@
             },
             "tensei-shitara-slime-datta-ken-4th-season": {
                 "title": "Tensei shitara Slime Datta Ken 4th Season",
-                "status": "4/?",
-                "last_change": 1777288956
+                "status": "5/?",
+                "last_change": 1780366717
             },
             "tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen": {
                 "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
@@ -27224,8 +27384,8 @@
             },
             "tsue-to-tsurugi-no-wistoria-season-2": {
                 "title": "Tsue to Tsurugi no Wistoria Season 2",
-                "status": "3/?",
-                "last_change": 1777288957
+                "status": "7/12",
+                "last_change": 1780366719
             },
             "tsuki-ga-michibiku-isekai-douchuu": {
                 "title": "Tsuki ga Michibiku Isekai Douchuu",
@@ -27256,6 +27416,21 @@
                 "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA",
                 "status": "1/1",
                 "last_change": 1776744721
+            },
+            "tadaima-ojamasaremasu": {
+                "title": "Tadaima, Ojamasaremasu!",
+                "status": "8/?",
+                "last_change": 1780366717
+            },
+            "tensei-shitara-slime-datta-ken-3rd-season-kanwa-diablo-nikki": {
+                "title": "Tensei shitara Slime Datta Ken 3rd Season: Kanwa - Diablo Nikki",
+                "status": "1/1",
+                "last_change": 1780366717
+            },
+            "tensei-shitara-slime-datta-ken-kanwa-luminous-memories": {
+                "title": "Tensei shitara Slime Datta Ken: Kanwa - Luminous Memories",
+                "status": "1/1",
+                "last_change": 1780366717
             }
         },
         "U": {
@@ -28110,8 +28285,8 @@
             },
             "wei-miao-rensheng": {
                 "title": "Wei Miao Rensheng",
-                "status": "27/36",
-                "last_change": 1777782846
+                "status": "31/36",
+                "last_change": 1780366720
             },
             "wei-kanjian-erduo-la": {
                 "title": "Wei, Kanjian Erduo La!",
@@ -28884,8 +29059,8 @@
             },
             "yomi-no-tsugai": {
                 "title": "Yomi no Tsugai",
-                "status": "5/24",
-                "last_change": 1777782847
+                "status": "9/24",
+                "last_change": 1780366721
             },
             "yomigaeru-sora-rescue-wings": {
                 "title": "Yomigaeru Sora: Rescue Wings",
@@ -29289,8 +29464,8 @@
             },
             "yuusha-no-kuzu": {
                 "title": "Yuusha no Kuzu",
-                "status": "15/24",
-                "last_change": 1777396789
+                "status": "19/24",
+                "last_change": 1780366722
             },
             "yuusha-ou-gaogaigar": {
                 "title": "Yuusha-Ou GaoGaiGar",
@@ -29479,8 +29654,8 @@
             },
             "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki": {
                 "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-                "status": "8/16",
-                "last_change": 1777782847
+                "status": "12/16",
+                "last_change": 1780366721
             },
             "yowamushi-pedal-new-generation": {
                 "title": "Yowamushi Pedal: New Generation",
@@ -29606,6 +29781,16 @@
                 "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
                 "status": "2/2",
                 "last_change": 1776744732
+            },
+            "yowayowa-sensei": {
+                "title": "Yowayowa Sensei",
+                "status": "8/12",
+                "last_change": 1780366722
+            },
+            "yozakura-san-chi-no-daisakusen-2nd-season": {
+                "title": "Yozakura-san Chi no Daisakusen 2nd Season",
+                "status": "7/?",
+                "last_change": 1780366722
             }
         },
         "Z": {
