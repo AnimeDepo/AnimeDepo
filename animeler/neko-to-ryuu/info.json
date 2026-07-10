@@ -4,8 +4,8 @@
   "Anime Türü": [
     "Fantastik"
   ],
-  "Bölüm Sayısı": "1 / ?",
-  "Başlama Tarihi": "27 Haziran 2026, Cumartesi",
+  "Bölüm Sayısı": "2 / ?",
+  "Başlama Tarihi": "04 Temmuz 2026, Cumartesi",
   "Bitiş Tarihi": null,
   "Stüdyo": "OLM",
   "Puanı": 0.0,
@@ -13,6 +13,8 @@
   "Resim": "https://www.turkanime.tv/imajlar/serilerb/6767.jpg",
   "fansubs": [
     "Anduin",
-    "LGI"
+    "LGI",
+    "Seicode",
+    "SubsP"
   ]
 }
