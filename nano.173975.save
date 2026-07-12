@@ -1,0 +1,12 @@
+uwu@debian~/depo/depo:
+λ du -hd 1
+745M	./animeler
+273M	./.git
+1.2M	./static
+1019M	.
+
+
+745M	./animeler
+287M	./.git
+1.2M	./static
+1.1G	.
