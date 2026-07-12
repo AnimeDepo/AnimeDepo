@@ -1,5 +1,5 @@
 {
-    "last_update": 1783774271,
+    "last_update": 1783817526,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -3678,8 +3678,8 @@
             },
             "black-torch": {
                 "title": "Black Torch",
-                "status": "1/?",
-                "last_change": 1783643138
+                "status": "2/?",
+                "last_change": 1783817499
             },
             "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu": {
                 "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
@@ -11327,6 +11327,11 @@
                 "title": "Honoo no Toukyuujo: Dodge Danko",
                 "status": "1/12",
                 "last_change": 1783643146
+            },
+            "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai": {
+                "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
+                "status": "0/?",
+                "last_change": 1783817506
             }
         },
         "I": {
@@ -18345,8 +18350,8 @@
             },
             "mairimashita-iruma-kun-4th-season": {
                 "title": "Mairimashita! Iruma-kun 4th Season",
-                "status": "14/24",
-                "last_change": 1783643152
+                "status": "15/24",
+                "last_change": 1783817513
             },
             "mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru": {
                 "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
@@ -29444,8 +29449,8 @@
             },
             "yomi-no-tsugai": {
                 "title": "Yomi no Tsugai",
-                "status": "13/22",
-                "last_change": 1783643167
+                "status": "14/22",
+                "last_change": 1783817526
             },
             "yomigaeru-sora-rescue-wings": {
                 "title": "Yomigaeru Sora: Rescue Wings",
