@@ -1,5 +1,5 @@
 {
-    "last_update": 1783885371,
+    "last_update": 1783928613,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -7928,6 +7928,11 @@
                 "title": "Futsuu no Joshikousei ga [Locodol] Yattemita. OVA",
                 "status": "1/2",
                 "last_change": 1776744629
+            },
+            "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den": {
+                "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+                "status": "0/?",
+                "last_change": 1783928596
             }
         },
         "G": {
@@ -16070,6 +16075,11 @@
                 "title": "Let's Go Kaiki-gumi",
                 "status": "1/12",
                 "last_change": 1783643151
+            },
+            "loca": {
+                "title": "Loca!",
+                "status": "0/1",
+                "last_change": 1783928604
             }
         },
         "M": {
@@ -25762,8 +25772,8 @@
             },
             "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha": {
                 "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-                "status": "1/12",
-                "last_change": 1783643160
+                "status": "2/12",
+                "last_change": 1783928613
             },
             "sora-wa-akai-kawa-no-hotori": {
                 "title": "Sora wa Akai Kawa no Hotori",
