@@ -1,5 +1,5 @@
 {
-    "last_update": 1784144872,
+    "last_update": 1784188133,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -3688,8 +3688,8 @@
             },
             "boku-no-kokoro-no-yabai-yatsu-movie": {
                 "title": "Boku no Kokoro no Yabai Yatsu Movie",
-                "status": "0/1",
-                "last_change": 1784101598
+                "status": "1/1",
+                "last_change": 1784188106
             }
         },
         "C": {
@@ -11342,6 +11342,11 @@
                 "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
                 "status": "1/?",
                 "last_change": 1783860752
+            },
+            "hokuto-no-ken-kenougun-zako-tachi-no-banka-part-2": {
+                "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
+                "status": "0/?",
+                "last_change": 1784188114
             }
         },
         "I": {
@@ -29055,8 +29060,8 @@
             },
             "wan-ren-zhi-shang": {
                 "title": "Wan Ren Zhi Shang",
-                "status": "7/14",
-                "last_change": 1783643166
+                "status": "8/14",
+                "last_change": 1784188133
             },
             "world-is-dancing": {
                 "title": "World Is Dancing",
