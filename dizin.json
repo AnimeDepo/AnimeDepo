@@ -1,5 +1,5 @@
 {
-    "last_update": 1784577423,
+    "last_update": 1784663937,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -2273,8 +2273,8 @@
             },
             "bannou-bunka-neko-musume-dash": {
                 "title": "Bannou Bunka Neko-Musume DASH!",
-                "status": "10/12",
-                "last_change": 1784577404
+                "status": "11/12",
+                "last_change": 1784663911
             },
             "bannou-yasai-ninninman": {
                 "title": "Bannou Yasai Ninninman",
@@ -3673,8 +3673,8 @@
             },
             "bai-ri-cheng-wang": {
                 "title": "Bai Ri Cheng Wang",
-                "status": "8/25",
-                "last_change": 1784317865
+                "status": "9/25",
+                "last_change": 1784663911
             },
             "black-torch": {
                 "title": "Black Torch",
@@ -4947,6 +4947,11 @@
                 "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
                 "status": "1/13",
                 "last_change": 1783643139
+            },
+            "cardfight-vanguard-15-shuunen-kinen-pv": {
+                "title": "Cardfight!! Vanguard 15-shuunen Kinen PV",
+                "status": "1/1",
+                "last_change": 1784663913
             }
         },
         "D": {
@@ -11345,8 +11350,8 @@
             },
             "hokuto-no-ken-kenougun-zako-tachi-no-banka-part-2": {
                 "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
-                "status": "0/?",
-                "last_change": 1784188114
+                "status": "1/?",
+                "last_change": 1784663920
             }
         },
         "I": {
@@ -15578,8 +15583,8 @@
             },
             "liar-game": {
                 "title": "Liar Game",
-                "status": "15/?",
-                "last_change": 1784015105
+                "status": "16/?",
+                "last_change": 1784663925
             },
             "liar-liar": {
                 "title": "Liar Liar",
@@ -18415,8 +18420,8 @@
             },
             "mushoku-tensei-iii-isekai-ittara-honki-dasu": {
                 "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-                "status": "3/14",
-                "last_change": 1783885361
+                "status": "4/14",
+                "last_change": 1784663928
             },
             "mob-psycho-100-10-shuunen-kinen-tokubetsu-eizou": {
                 "title": "Mob Psycho 100: 10-shuunen Kinen Tokubetsu Eizou",
@@ -25782,18 +25787,18 @@
             },
             "sayonara-lara": {
                 "title": "Sayonara Lara",
-                "status": "2/12",
-                "last_change": 1783971864
+                "status": "3/12",
+                "last_change": 1784663933
             },
             "seihantai-na-kimi-to-boku-2nd-season": {
                 "title": "Seihantai na Kimi to Boku 2nd Season",
-                "status": "2/13",
-                "last_change": 1783860770
+                "status": "3/13",
+                "last_change": 1784663933
             },
             "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha": {
                 "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-                "status": "2/12",
-                "last_change": 1783928613
+                "status": "3/12",
+                "last_change": 1784663934
             },
             "sora-wa-akai-kawa-no-hotori": {
                 "title": "Sora wa Akai Kawa no Hotori",
@@ -27839,8 +27844,8 @@
             },
             "tensei-shitara-slime-datta-ken-movie-2-soukai-no-namida-hen": {
                 "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
-                "status": "0/1",
-                "last_change": 1784490921
+                "status": "1/1",
+                "last_change": 1784663937
             }
         },
         "U": {
