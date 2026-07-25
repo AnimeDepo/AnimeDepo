@@ -1,5 +1,5 @@
 {
-    "last_update": 1784923449,
+    "last_update": 1784966706,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -1978,6 +1978,11 @@
                 "title": "Azur Lane: Bisoku Zenshin! Ni!!",
                 "status": "0/12",
                 "last_change": 1783730997
+            },
+            "ansatsu-kyoushitsu-movie-minna-no-jikan": {
+                "title": "Ansatsu Kyoushitsu Movie: Minna no Jikan",
+                "status": "0/1",
+                "last_change": 1784966677
             }
         },
         "B": {
@@ -3668,8 +3673,8 @@
             },
             "bang-dream-yume-mita": {
                 "title": "BanG Dream! Yume∞Mita",
-                "status": "0/?",
-                "last_change": 1783078285
+                "status": "6/?",
+                "last_change": 1784966678
             },
             "bungou-stray-dogs-wan-2": {
                 "title": "Bungou Stray Dogs Wan! 2",
@@ -3678,8 +3683,8 @@
             },
             "bai-ri-cheng-wang": {
                 "title": "Bai Ri Cheng Wang",
-                "status": "9/25",
-                "last_change": 1784663911
+                "status": "10/25",
+                "last_change": 1784966677
             },
             "black-torch": {
                 "title": "Black Torch",
@@ -11355,8 +11360,8 @@
             },
             "hokuto-no-ken-kenougun-zako-tachi-no-banka-part-2": {
                 "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
-                "status": "1/?",
-                "last_change": 1784663920
+                "status": "3/?",
+                "last_change": 1784966686
             }
         },
         "I": {
@@ -15476,8 +15481,8 @@
             },
             "koukaku-kidoutai-tv": {
                 "title": "Koukaku Kidoutai (TV)",
-                "status": "2/?",
-                "last_change": 1784101610
+                "status": "3/?",
+                "last_change": 1784966690
             }
         },
         "L": {
@@ -20854,8 +20859,8 @@
             },
             "onegai-aipri": {
                 "title": "Onegai AiPri",
-                "status": "15/?",
-                "last_change": 1784231376
+                "status": "16/?",
+                "last_change": 1784966695
             },
             "otome-kaijuu-carameliser": {
                 "title": "Otome Kaijuu Caraméliser",
@@ -20874,8 +20879,8 @@
             },
             "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2": {
                 "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
-                "status": "2/12",
-                "last_change": 1784317884
+                "status": "3/12",
+                "last_change": 1784966696
             }
         },
         "P": {
@@ -30049,8 +30054,8 @@
             },
             "yoroi-shin-den-samurai-troopers": {
                 "title": "Yoroi Shin Den Samurai Troopers",
-                "status": "13/12+",
-                "last_change": 1783643167
+                "status": "14/12+",
+                "last_change": 1784966706
             },
             "yoru-wa-mijikashi-arukeyo-otome": {
                 "title": "Yoru wa Mijikashi Arukeyo Otome",
@@ -30239,8 +30244,8 @@
             },
             "yoroi-shin-den-samurai-troopers-part-2": {
                 "title": "Yoroi Shin Den Samurai Troopers Part 2",
-                "status": "2/12",
-                "last_change": 1784750419
+                "status": "3/12",
+                "last_change": 1784966706
             },
             "youjo-senki-ii": {
                 "title": "Youjo Senki II",
