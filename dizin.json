@@ -1,5 +1,5 @@
 {
-    "last_update": 1785615564,
+    "last_update": 1785702056,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -3688,8 +3688,8 @@
             },
             "black-torch": {
                 "title": "Black Torch",
-                "status": "4/?",
-                "last_change": 1785139711
+                "status": "5/?",
+                "last_change": 1785702032
             },
             "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu": {
                 "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
@@ -5497,8 +5497,8 @@
             },
             "digimon-beatbreak": {
                 "title": "Digimon Beatbreak",
-                "status": "40/?",
-                "last_change": 1785182985
+                "status": "41/?",
+                "last_change": 1785702034
             },
             "digimon-frontier": {
                 "title": "Digimon Frontier",
@@ -11355,13 +11355,18 @@
             },
             "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai": {
                 "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-                "status": "3/?",
-                "last_change": 1785139718
+                "status": "4/?",
+                "last_change": 1785702039
             },
             "hokuto-no-ken-kenougun-zako-tachi-no-banka-part-2": {
                 "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
                 "status": "4/?",
                 "last_change": 1785442522
+            },
+            "hoshikuzu-paradise": {
+                "title": "Hoshikuzu Paradise",
+                "status": "1/1",
+                "last_change": 1785702040
             }
         },
         "I": {
@@ -15451,8 +15456,8 @@
             },
             "kabushikigaisha-magi-lumiere-2nd-season": {
                 "title": "Kabushikigaisha Magi-Lumière 2nd Season",
-                "status": "4/?",
-                "last_change": 1785139721
+                "status": "5/?",
+                "last_change": 1785702041
             },
             "katainaka-no-ossan-kensei-ni-naru-ii": {
                 "title": "Katainaka no Ossan, Kensei ni Naru II",
@@ -16103,8 +16108,8 @@
             },
             "let-s-go-kaiki-gumi": {
                 "title": "Let's Go Kaiki-gumi",
-                "status": "4/12",
-                "last_change": 1785269501
+                "status": "5/12",
+                "last_change": 1785702044
             },
             "loca": {
                 "title": "Loca!",
@@ -16940,8 +16945,8 @@
             },
             "meitantei-precure": {
                 "title": "Meitantei Precure!",
-                "status": "26/?",
-                "last_change": 1785139726
+                "status": "27/?",
+                "last_change": 1785702046
             },
             "meitou": {
                 "title": "Meitou",
@@ -18390,8 +18395,8 @@
             },
             "mairimashita-iruma-kun-4th-season": {
                 "title": "Mairimashita! Iruma-kun 4th Season",
-                "status": "17/24",
-                "last_change": 1785139725
+                "status": "18/24",
+                "last_change": 1785702046
             },
             "mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru": {
                 "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
@@ -18425,8 +18430,8 @@
             },
             "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance": {
                 "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-                "status": "4/12",
-                "last_change": 1785139725
+                "status": "5/12",
+                "last_change": 1785702045
             },
             "mebius-dust": {
                 "title": "Mebius Dust",
@@ -19582,8 +19587,8 @@
             },
             "neko-to-ryuu": {
                 "title": "Neko to Ryuu",
-                "status": "5/?",
-                "last_change": 1785139727
+                "status": "6/?",
+                "last_change": 1785702048
             },
             "netrun-mon-the-movie": {
                 "title": "Netrun-mon the Movie",
@@ -20864,8 +20869,8 @@
             },
             "onegai-aipri": {
                 "title": "Onegai AiPri",
-                "status": "16/?",
-                "last_change": 1784966695
+                "status": "17/?",
+                "last_change": 1785702049
             },
             "otome-kaijuu-carameliser": {
                 "title": "Otome Kaijuu Caraméliser",
@@ -27814,8 +27819,8 @@
             },
             "tenmaku-no-jaadugar": {
                 "title": "Tenmaku no Jaadugar",
-                "status": "5/?",
-                "last_change": 1785226262
+                "status": "6/?",
+                "last_change": 1785702056
             },
             "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru": {
                 "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
