@@ -1,5 +1,5 @@
 {
-    "last_update": 1786913151,
+    "last_update": 1786956402,
     "index": {
         "0-9": {
             "hack-g-u-returner": {
@@ -3700,6 +3700,11 @@
                 "title": "Boku no Kokoro no Yabai Yatsu Movie",
                 "status": "1/1",
                 "last_change": 1784188106
+            },
+            "bleach-sennen-kessen-hen-kashin-tan": {
+                "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
+                "status": "0/10",
+                "last_change": 1786956376
             }
         },
         "C": {
@@ -5497,8 +5502,8 @@
             },
             "digimon-beatbreak": {
                 "title": "Digimon Beatbreak",
-                "status": "42/?",
-                "last_change": 1786653600
+                "status": "43/?",
+                "last_change": 1786956378
             },
             "digimon-frontier": {
                 "title": "Digimon Frontier",
@@ -11340,8 +11345,8 @@
             },
             "hanazakari-no-kimitachi-e-2nd-season": {
                 "title": "Hanazakari no Kimitachi e 2nd Season",
-                "status": "6/13",
-                "last_change": 1786567059
+                "status": "7/13",
+                "last_change": 1786956382
             },
             "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season": {
                 "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
@@ -11355,8 +11360,8 @@
             },
             "hanaori-san-wa-tensei-shitemo-kenka-ga-shitai": {
                 "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
-                "status": "5/?",
-                "last_change": 1786610353
+                "status": "6/?",
+                "last_change": 1786956382
             },
             "hokuto-no-ken-kenougun-zako-tachi-no-banka-part-2": {
                 "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
@@ -15471,8 +15476,8 @@
             },
             "kimi-ga-shinu-made-koi-wo-shitai": {
                 "title": "Kimi ga Shinu made Koi wo Shitai",
-                "status": "4/13",
-                "last_change": 1786567063
+                "status": "5/13",
+                "last_change": 1786956386
             },
             "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season": {
                 "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
@@ -15491,8 +15496,8 @@
             },
             "koukaku-kidoutai-tv": {
                 "title": "Koukaku Kidoutai (TV)",
-                "status": "4/?",
-                "last_change": 1785356012
+                "status": "5/?",
+                "last_change": 1786956387
             },
             "kamisama-hajimemashita-3": {
                 "title": "Kamisama Hajimemashita 3",
@@ -16113,8 +16118,8 @@
             },
             "let-s-go-kaiki-gumi": {
                 "title": "Let's Go Kaiki-gumi",
-                "status": "6/12",
-                "last_change": 1786610358
+                "status": "7/12",
+                "last_change": 1786956387
             },
             "loca": {
                 "title": "Loca!",
@@ -18430,13 +18435,13 @@
             },
             "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu": {
                 "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-                "status": "5/?",
-                "last_change": 1785356016
+                "status": "6/?",
+                "last_change": 1786956390
             },
             "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance": {
                 "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-                "status": "6/12",
-                "last_change": 1786307598
+                "status": "7/12",
+                "last_change": 1786956388
             },
             "mebius-dust": {
                 "title": "Mebius Dust",
@@ -20889,8 +20894,8 @@
             },
             "oni-no-hanayome": {
                 "title": "Oni no Hanayome",
-                "status": "6/12",
-                "last_change": 1786567070
+                "status": "7/12",
+                "last_change": 1786956392
             },
             "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2": {
                 "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
@@ -25802,8 +25807,8 @@
             },
             "saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita": {
                 "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-                "status": "6/12",
-                "last_change": 1786567072
+                "status": "7/12",
+                "last_change": 1786956395
             },
             "saikyou-degarashi-ouji-no-anyaku-teii-arasoi": {
                 "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
@@ -30264,8 +30269,8 @@
             },
             "yoroi-shin-den-samurai-troopers-part-2": {
                 "title": "Yoroi Shin Den Samurai Troopers Part 2",
-                "status": "4/12",
-                "last_change": 1785356029
+                "status": "5/12",
+                "last_change": 1786956402
             },
             "youjo-senki-ii": {
                 "title": "Youjo Senki II",
