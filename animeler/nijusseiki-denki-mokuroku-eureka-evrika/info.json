@@ -4,7 +4,7 @@
   "Anime Türü": [
     "Dram"
   ],
-  "Bölüm Sayısı": "7 / 13",
+  "Bölüm Sayısı": "8 / 13",
   "Başlama Tarihi": "05 Temmuz 2026, Pazar",
   "Bitiş Tarihi": null,
   "Stüdyo": "Kyoto Animation",
@@ -13,6 +13,7 @@
   "Resim": "https://www.turkanime.tv/imajlar/serilerb/6800.jpg",
   "fansubs": [
     "LGI",
-    "Seicode"
+    "Seicode",
+    "SubsP"
   ]
 }
